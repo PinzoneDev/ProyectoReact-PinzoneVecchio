@@ -1,0 +1,11 @@
+W.item-list-container {
+    background-color: #6a6a6a;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.greeting {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+}

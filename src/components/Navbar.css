@@ -1,0 +1,45 @@
+.custom-navbar {
+    background-color: #5a6268;
+}
+
+.nav-item {
+    margin: 0 10px;
+}
+
+.custom-nav-link {
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 15px;
+    padding: 10px 20px;
+    transition: 0.3s;
+}
+
+.custom-nav-link:hover {
+    background-color: #069755;
+    color: #000;
+}
+
+.navbar-brand {
+    color: #069755;
+    font-size: 25px;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.custom-nav-link {
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 15px;
+    padding: 10px 20px;
+    transition: 0.3s;
+}
+
+.custom-nav-link:hover {
+    background-color: #069755;
+    color: #000;
+}
+
